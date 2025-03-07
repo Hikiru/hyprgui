@@ -2,8 +2,13 @@
 
 <h2>HyprGUI <img src='https://raw.githubusercontent.com/hyprutils/.github/refs/heads/main/hyprutils_transparent.png'width='18' height='18'></h2>
 
+Fork of HyprGUI, as it has been deleted. I know nothing about rust, just wanted to mess around. Thanks to MarkusVolk for the source code of the original project.
+
+Accepting contributions if you'd like to see this fork go somewhere.
+
 An unofficial GUI for configuring Hyprland, built with GTK4 and Rust. 🚀🦀<br>
-Comes with a custom [hyprparser](https://github.com/nnyyxxxx/hyprparser) for Hyprland's configuration file. (Rust btw) 🦀
+Comes with a custom [hyprparser](https://github.com/Th3Whit3Wolf/hyprparser) for Hyprland's configuration file. (Rust btw) 🦀
+Note: links to fork as original repository is gone.
 
 ![Preview](.github/preview.png)
 
@@ -12,9 +17,9 @@ Comes with a custom [hyprparser](https://github.com/nnyyxxxx/hyprparser) for Hyp
 ## Installation
 
 ### GitHub Releases
-See HyprGUI's [releases page](https://github.com/nnyyxxxx/hyprgui/releases) for downloadable binaries.
+See HyprGUI's [releases page](https://github.com/Hikiru/hyprgui/releases) for downloadable binaries.
 
-### Arch Linux
+### Arch Linux (AUR packages currently unavailable)
 There are 2 different [AUR](https://aur.archlinux.org) packages available:
 
 - [hyprgui](https://aur.archlinux.org/packages/hyprgui) - Latest release built from source
@@ -36,7 +41,7 @@ paru -S <package>
 1. Install Rust (preferably `rustup`) through your distro's package or [the official script](https://www.rust-lang.org/tools/install)
 2. Install `git`, `pango` and `gtk4`
 3. Clone this repository:
-`git clone https://github.com/nnyyxxxx/hyprgui && cd hyprgui`
+`git clone https://github.com/Hikiru/hyprgui && cd hyprgui`
 4. Compile the app with `cargo build --release` or run it directly with `cargo run --release`
 
 ## TODO:
