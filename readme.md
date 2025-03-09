@@ -2,7 +2,7 @@
 
 <h2>HyprGUI <img src='https://raw.githubusercontent.com/hyprutils/.github/refs/heads/main/hyprutils_transparent.png'width='18' height='18'></h2>
 
-Fork of HyprGUI, as it has been deleted. I know nothing about rust, just wanted to mess around. Thanks to MarkusVolk for the source code of the original project.
+Fork of HyprGUI, as it has been deleted. I know nothing about rust, just wanted to mess around. Thanks to MarkusVolk for preserving the source code of the original project.
 
 Accepting contributions if you'd like to see this fork go somewhere.
 
