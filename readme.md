@@ -14,7 +14,7 @@ Note: links to fork as original repository is gone.
 
 </div>
 
-## Installation
+## Installation (currently not available. build from source instead.)
 
 ### GitHub Releases
 See HyprGUI's [releases page](https://github.com/Hikiru/hyprgui/releases) for downloadable binaries.
